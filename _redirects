@@ -1,0 +1,12 @@
+# Netlify Redirects — Sonoran Precision Ag
+
+# Trailing slash normalization
+/services/    /services.html    200
+/about/       /about.html       200
+/contact/     /contact.html     200
+/faq/         /faq.html         200
+/blog/        /blog.html        200
+/drone-spraying/  /drone-spraying.html  200
+
+# Custom 404
+/*    /404.html   404
